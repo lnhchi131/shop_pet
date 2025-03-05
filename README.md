@@ -52,4 +52,22 @@ Visit:
     http://localhost:8000
 
 
+## Functional Diagram
+![Sơ đồ chức năng](img/Sơ%20Đồ%20Chức%20Năng.png)
 
+## Flowchart 
+![Quy trình đăng nhập đăng ký](img/Quy%20trình%20đặp%20nhập%20đăng%20ký.png)
+
+
+![](img/Quy%20trình%20duyệt%20sản%20phẩm.png)
+
+
+![](img/Quy%20trình%20xem%20sản%20phẩm%20chi%20tiết%20.png)
+
+
+![](img/Quy%20trình%20đặt%20hàng%20và%20thanh%20%20toán.png)
+
+
+![](img/Quy%20trình%20theo%20dỗi%20Đơn%20hàng.png)
+
+### Website screenshot
