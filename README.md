@@ -1,4 +1,4 @@
-## About Shop Pet
+# About Shop Pet
 
 
 Shop Pet is a pet store management website
@@ -70,7 +70,7 @@ Visit:
 
 ![](img/Quy%20trình%20theo%20dỗi%20Đơn%20hàng.png)
 
-### Website screenshot
+## Website screenshot
 
 | Login  |  Home
 |:-:|:-:|
